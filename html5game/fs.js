@@ -1,1 +1,1 @@
-page.requestFullscreen();
+requestFullscreen();
