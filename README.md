@@ -1,1 +1,1 @@
-looking for the yyz? [go here](https://github.com/kokostudios/potatogame)
+looking for the source code? [go here](https://github.com/kokostudios/potatogame)
